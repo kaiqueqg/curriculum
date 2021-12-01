@@ -1,2 +1,0 @@
-(this.webpackJsonpcurriculum=this.webpackJsonpcurriculum||[]).push([[0],{11:function(n,u,c){"use strict";c.r(u);c(0);var t=c(3),r=c.n(t);c(8),c.p,c(9),c(2);r.a.render(document.getElementById("root"))},8:function(n,u,c){},9:function(n,u,c){}},[[11,1,2]]]);
-//# sourceMappingURL=main.22830484.chunk.js.map
